@@ -1,0 +1,11 @@
+{
+  "name": "execsync-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "debug":"node --inspect --inspect-brk buildAll.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
